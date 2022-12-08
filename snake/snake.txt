@@ -1,0 +1,5 @@
+create new environment: conda create -n pygame_env python=3.7
+change to environment: conda activate pygame_env
+install pygame: pip install pygame
+install pytorch: pip3 install torch torchvision torchaudio
+then: pip install matplotlib ipython
